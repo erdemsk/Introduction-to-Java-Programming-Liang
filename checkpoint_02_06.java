@@ -1,4 +1,5 @@
-//Introduction to Java Programming and Data Structures, Liang, 11th Edition, 2.6 Assignment Statements and Assignment Expressions, 65
+/*Introduction to Java Programming and Data Structures, Liang, 11th Edition,
+2.6 Assignment Statements and Assignment Expressions, 65*/
 
 public class checkpoint_02_06 {
 
