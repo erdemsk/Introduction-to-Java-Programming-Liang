@@ -13,7 +13,7 @@ public class Lottery {
         //Create a Scanner object
         Scanner input = new Scanner(System.in);
 
-        //Ask the user to guess the correct number
+        //Ask the user to guess the lottery
         System.out.print("Enter your guess (two-digits): ");
         int guess = input.nextInt();
 
