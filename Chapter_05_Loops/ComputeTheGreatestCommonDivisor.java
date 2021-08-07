@@ -1,5 +1,5 @@
 /* Introduction to Java Programming and Data Structures, Liang, 11th Edition,
-5. Programming Exercises 5.13, 218*/
+5. Programming Exercises 5.14, 218*/
 import java.util.*;
 public class ComputeTheGreatestCommonDivisor {
     public static void main(String[] args) {
