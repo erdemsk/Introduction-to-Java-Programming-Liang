@@ -1,3 +1,5 @@
+/* Introduction to Java Programming and Data Structures, Liang, 11th Edition,
+7.6 Passing Arrays to Methods, 283*/
 public class TestPassArray {
     public static void main(String[] args) {
         int[] a = {1, 2};
