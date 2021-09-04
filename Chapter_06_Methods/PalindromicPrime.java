@@ -2,7 +2,7 @@
 6. Programming Exercises 6.26, 264*/
 public class PalindromicPrime {
     public static void main(String[] args) {
-        final int NUMBER_OF_PALINDROMIC_PRIMES = 20;
+        final int NUMBER_OF_PALINDROMIC_PRIMES = 120;
         int palindromicPrimeNumbers = 0;
         int number = 2;
 
