@@ -1,5 +1,5 @@
 /* Introduction to Java Programming and Data Structures, Liang, 11th Edition,
-8.7 Case Study: Sudoku, 323-324*/
+8.8 Multidimensional Arrays, 323-324*/
 import java.util.Scanner;
 public class Weather {
     public static void main(String[] args) {
