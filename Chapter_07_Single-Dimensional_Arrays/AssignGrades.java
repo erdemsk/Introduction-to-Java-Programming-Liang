@@ -3,16 +3,17 @@
 import java.util.*;
 public class AssignGrades {
     public static void main(String[] args) {
-        //Ask the user to enter the number of students
-        System.out.print("Enter the number of students: ");
-
+        //Create a Scanner object
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
+
+        //Ask the user to enter the number of students
+        System.out.print("Enter the number of students: ");
 
         //create a score array
         int[] score = new int[n];
 
-        //create a variable to hold the value of best score
+        //create a variable to hold the value of the best score
         int bestScore = 0;
 
         System.out.print("Enter " + n + " scores: ");
